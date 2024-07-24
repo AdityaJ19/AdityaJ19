@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/adityaj019" target="blank"><img src="https://img.shields.io/twitter/follow/adityaj019?logo=twitter&style=for-the-badge" alt="adityaj019" /></a> </p>
 
-- 🌱 I’m currently learning **MySQL, PostgreSQL, Spring Framework**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 📫 How to reach me **adityajangra31@gmail.com**
 
